@@ -4,6 +4,11 @@
 终于好了
 试一下window下的冲突
 新的冲突
+<<<<<<< Updated upstream
 123456
 789
 abc
+=======
+1234
+789
+>>>>>>> Stashed changes
